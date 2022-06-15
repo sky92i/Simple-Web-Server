@@ -1,0 +1,46 @@
+--------Web Server has started--------
+Enter "127.0.0.1:8080" in your web browser.
+
+
+Time: Wed Mar 31 23:36:29 HKT 2021 | IP: 127.0.0.1 | Connection established | Requested file Name: index.html | Respond type: 200 OK
+
+Time: Wed Mar 31 23:36:29 HKT 2021 | IP: 127.0.0.1 | Connection established | Requested file Name: imagemap.png | Respond type: 200 OK
+
+Time: Wed Mar 31 23:36:43 HKT 2021 | IP: 127.0.0.1 | Connection established | Requested file Name: index.html | Respond type: 304 Not Modified
+
+Time: Wed Mar 31 23:36:43 HKT 2021 | IP: 127.0.0.1 | Connection established | Requested file Name: imagemap.png | Respond type: 304 Not Modified
+
+Time: Wed Mar 31 23:38:05 HKT 2021 | IP: 127.0.0.1 | Connection established | Requested file Name: index.html | Respond type: 200 OK
+
+Time: Wed Mar 31 23:38:05 HKT 2021 | IP: 127.0.0.1 | Connection established | Requested file Name: imagemap.png | Respond type: 200 OK
+
+Time: Wed Mar 31 23:38:06 HKT 2021 | IP: 127.0.0.1 | Connection established | Requested file Name: fdfsf | Respond type: 404 File Not Found
+
+Time: Wed Mar 31 23:38:08 HKT 2021 | IP: 127.0.0.1 | Connection established | Requested file Name: fdfsf | Respond type: 404 File Not Found
+
+Time: Wed Mar 31 23:38:09 HKT 2021 | IP: 127.0.0.1 | Connection established | Requested file Name: fdfsf | Respond type: 404 File Not Found
+
+Time: Wed Mar 31 23:38:12 HKT 2021 | IP: 127.0.0.1 | Connection established | Requested file Name: index.html | Respond type: 200 OK
+
+Time: Wed Mar 31 23:38:12 HKT 2021 | IP: 127.0.0.1 | Connection established | Requested file Name: imagemap.png | Respond type: 304 Not Modified
+
+Time: Wed Mar 31 23:38:15 HKT 2021 | IP: 127.0.0.1 | Connection established | Requested file Name: index.html | Respond type: 304 Not Modified
+
+Time: Wed Mar 31 23:38:15 HKT 2021 | IP: 127.0.0.1 | Connection established | Requested file Name: imagemap.png | Respond type: 304 Not Modified
+
+Time: Wed Mar 31 23:38:16 HKT 2021 | IP: 127.0.0.1 | Connection established | Requested file Name: index.html | Respond type: 304 Not Modified
+
+Time: Wed Mar 31 23:38:16 HKT 2021 | IP: 127.0.0.1 | Connection established | Requested file Name: imagemap.png | Respond type: 304 Not Modified
+
+Time: Wed Mar 31 23:38:21 HKT 2021 | IP: 127.0.0.1 | Connection established | Requested file Name: imagemap.png | Respond type: 304 Not Modified
+
+Time: Wed Mar 31 23:38:23 HKT 2021 | IP: 127.0.0.1 | Connection established | Requested file Name: index.html | Respond type: 304 Not Modified
+
+Time: Wed Mar 31 23:38:23 HKT 2021 | IP: 127.0.0.1 | Connection established | Requested file Name: imagemap.png | Respond type: 304 Not Modified
+
+Time: Wed Mar 31 23:38:26 HKT 2021 | IP: 127.0.0.1 | Connection established | Requested file Name: index.html | Respond type: 304 Not Modified
+
+Time: Wed Mar 31 23:38:26 HKT 2021 | IP: 127.0.0.1 | Connection established | Requested file Name: imagemap.png | Respond type: 304 Not Modified
+--------Web Server has started--------
+Enter "127.0.0.1:8080" in your web browser.
+
